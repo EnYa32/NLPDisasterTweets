@@ -48,9 +48,9 @@ Build a model that distinguishes:
 
 ## 📊 EDA Visualizations
 
-![Class Balance](assets/eda_class_balance.png)
-![Text Length](assets/eda_text_length.png)
-![Top Keywords](assets/eda_top_keywords.png)
+![Class Balance](./eda_class_balance.png)
+![Text Length](./eda_text_length.png)
+![Top Keywords](./eda_top_keywords.png)
 
 ## NLP Preprocessing Pipeline
 
